@@ -6,6 +6,12 @@ layout: default
 
 ## POWrrr community ##
 
+A few snips of our clubs:
+
+POWrrr(Main Club)
+
+![Asphalt Legends Unite 26-02-2025 11_06_55](https://github.com/user-attachments/assets/badd46b5-d2e0-4134-95ba-3ebb17af8f79)
+
 We are looking for active players from all over the world. We invite you to play in a relaxed atmosphere with no pressure and no strange rules!
 
 **Club: POWrrr**
@@ -36,5 +42,7 @@ Club will do clash soon. New people who want to play clash can join this club
 We are open to club mergers and new club creation under POWrrr.
 
 Contact @papo_loco or @d4rkmall on discord if you are interested
+
+
 
 
