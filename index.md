@@ -41,7 +41,7 @@ Club will do clash soon. New people who want to play clash can join this club
 
 We are open to club mergers and new club creation under POWrrr.
 
-Contact @papo_loco or @d4rkmall on discord if you are interested
+Join our Discord server by clicking on the join button at the top if you are interested
 
 
 
