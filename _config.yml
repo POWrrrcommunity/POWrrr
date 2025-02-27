@@ -4,6 +4,6 @@ theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-github:
+discord:
   repository_url: https://discord.gg/kEGUM2Dt82
   another_url: https://discord.gg/kEGUM2Dt82
