@@ -1,7 +1,5 @@
 title: POWrrr Community
 description: Welcome to POWrrr Community. We are a club community in Asphalt Legends Unite. This page provides details of our clubs and other info about our community
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
