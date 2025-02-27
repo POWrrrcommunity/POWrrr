@@ -35,7 +35,6 @@ Club will do clash soon. New people who want to play clash can join this club
 
 We are open to club mergers and new club creation under POWrrr.
 
-Contact: <@493111507190808599>, <@1149362016318914693>
-https://discord.gg/jnBA9AYPHy
-[POWrrr community](https://cdn.discordapp.com/attachments/1149715311621316630/1310287852763873451/Banner8.jpg?ex=6744ac28&is=67435aa8&hm=a842576065c79cff09cd110e4e3bc017cc727c041008f21026219127602b316c&)
+Contact @papo_loco or @d4rkmall on discord if you are interested
+
 
