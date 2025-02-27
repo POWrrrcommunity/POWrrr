@@ -6,4 +6,4 @@ plugins:
 - jekyll-remote-theme
 github:
   repository_url: https://discord.gg/kEGUM2Dt82
-  another_url: another value
+  another_url: https://discord.gg/kEGUM2Dt82
