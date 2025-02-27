@@ -2,122 +2,40 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![powrrr](https://github.com/user-attachments/assets/12d2c581-9221-4734-b62f-cb8295c6d9e9)
 
-[Link to another page](./another-page.html).
+## POWrrr community ##
 
-There should be whitespace between paragraphs.
+We are looking for active players from all over the world. We invite you to play in a relaxed atmosphere with no pressure and no strange rules!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Club: POWrrr**
+ID: #5f604
+Req: GL 16+, Clash, Skill, 1,5k rp/day, Top5% and better in TLE
+Last position in Clash: 55
 
-# Header 1
+**Club: POWrrrUp**
+ID: #e1009
+Req: GL 10+, Clash, 1k rp/day
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Club: NuPOWrrr**
+ID: #0f9b6
+Req: GL 5+, 500 rp/day, just play
+Club will do clash soon. New people who want to play clash can join this club
 
-## Header 2
+**Advantages of joining:**
+* Members are all helpful and active
+* Good club to progress in game 
+* Redeem codes will be shared in discord server
+* Clash rewards will be decent enough to unlock some really good cars from clash store
+* Our members are always ready to teach another member if needed to beat a clash time in attack or anything like that
+* Clash management for Defense and Attack phase
+* Advices on events
+* Intra-club activities
+* Tips and tricks for faster progress in game and skill
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+We are open to club mergers and new club creation under POWrrr.
 
-### Header 3
+Contact: <@493111507190808599>, <@1149362016318914693>
+https://discord.gg/jnBA9AYPHy
+[POWrrr community](https://cdn.discordapp.com/attachments/1149715311621316630/1310287852763873451/Banner8.jpg?ex=6744ac28&is=67435aa8&hm=a842576065c79cff09cd110e4e3bc017cc727c041008f21026219127602b316c&)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
